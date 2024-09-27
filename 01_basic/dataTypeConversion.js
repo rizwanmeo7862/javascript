@@ -34,3 +34,4 @@ let code = Symbol('1234')
 console.log(id == code)
 
 
+//+++++++++++++++++++++++++++++ STACK And HEAP +++++++++++++++++++++++++++++   
