@@ -10,3 +10,5 @@
 //null = standalone value
 
 console.log(typeof "rizwan")
+
+
