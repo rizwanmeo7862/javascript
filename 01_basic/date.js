@@ -10,7 +10,10 @@ let myDate = new Date()
 // console.log(myDate.toTimeString())
 //console.log(myDate.getTimezoneOffset())
 
-console.log(typeof myDate);
+// console.log(typeof myDate);
+// let myCreatedDate = new Date(2024, 9, 3)
 
+// console.log(myCreatedDate.toDateString())
 
+let newDate = new Date()
 
